@@ -42,3 +42,15 @@ players : *
 edicts  : *
 ```
 > https://steamcommunity.com/profiles/76561197966480937
+
+```
+hostname: Valve Matchmaking Server (Virginia iad-3/srcds149 #29)
+version : 5615298/24 5615298 secure
+udp/ip  : 208.78.165.232:27043  (public ip: 208.78.165.232)
+steamid : [A:1:4016960517:14406] (90133869863236613)
+account : not logged in  (No account specified)
+map     : cp_well at: 0 x, 0 y, 0 z
+tags    : cp,hidden,increased_maxplayers,valve
+```
+
+> https://steamcommunity.com/id/saintsone/
