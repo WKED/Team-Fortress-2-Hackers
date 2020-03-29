@@ -54,3 +54,20 @@ tags    : cp,hidden,increased_maxplayers,valve
 ```
 
 > https://steamcommunity.com/id/saintsone/
+
+```
+hostname: Valve Matchmaking Server (Virginia iad-3/srcds149 #16)
+tags    : ctf,hidden,increased_maxplayers,valve
+version : 5615298/24 5615298 secure
+players : 24 humans, 0 bots (32 max)
+udp/ip  : 208.78.165.232:27030  (public ip: 208.78.165.232)
+edicts  : 1350 used of 2048 max
+cts  : 1350 used of 2048 max
+steamid : [A:1:1331505153:14412] (90133892947585025)
+connected ping loss state
+account : not logged in  (No account specified)
+49]     21:55       55    0 active
+map     : ctf_2fort at: 0 x, 0 y, 0 z
+```
+
+> https://steamcommunity.com/profiles/76561199029732506
